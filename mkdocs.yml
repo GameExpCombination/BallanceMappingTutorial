@@ -1,15 +1,19 @@
 site_name: Ballance Mapping Tutorial
 site_description: 'The tutorial for Ballance mapping.'
-site_author: 'yyc12345'
-# site_url: 'https://yyc12345.github.io/bpm_wiki/'
+site_author: 'Ballance Player Organization'
+# site_url: 'https://gameexpcombination.github.io/BallanceMappingTutorial/'
 
 # repo_name: 'GameExpCombination/BallanceMappingTutorial'
 # repo_url: 'https://github.com/GameExpCombination/BallanceMappingTutorial'
+# edit_uri: ''
 
-copyright: 'Text is available under the CC-BY-NC-SA 4.0. Supported by GCBA, Chinese Ballance Forum, Ballance Discord Server and BearKidsTeam.'
+copyright: 'Text is available under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA 4.0</a>. Supported by GCBA, Chinese Ballance Forum, Ballance Discord Server and BearKidsTeam.'
 
 nav:
-    - Language: index.md
+    - Index: 
+        - 'Choose Language': 'index.md'
+        - 'Translation keywords table': 'translation_keywords.md'
+        - 'Copyright and license': 'license.md'
     - 简体中文:
         - '前言': 'zh-hans/index.md'
         - 'Virtools教程':
@@ -27,7 +31,7 @@ nav:
           - '建造路面与钢轨（入门）': 'zh-hans/max/road_rail.md'
           - 'NMO文件导入Max': 'zh-hans/max/nmo_import.md'
           - '直接制作路面教程（进阶）': 'zh-hans/max/enhanced_road_rail.md'
-        - '版权与许可证': 'zh-hans/license.md'
+        - '视频教程': 'zh-hans/video.md'
     - English:
         - 'Introduction': 'en/index.md'
         - 'Virtools tutorial':
@@ -45,7 +49,7 @@ nav:
           - 'Build road and rail': 'en/max/road_rail.md'
           - 'Import NMO file': 'en/max/nmo_import.md'
           - 'Enhanced build road and rail': 'en/max/enhanced_road_rail.md'
-        - 'Copyright and license': 'en/license.md'
+        - 'Video tutorial': 'en/video.md'
 
 theme:
   name: 'material'

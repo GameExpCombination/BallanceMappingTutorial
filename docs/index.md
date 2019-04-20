@@ -1,4 +1,4 @@
-# bpm Wiki
+# Ballance Mapping Tutorial
 
 Select a language
 
