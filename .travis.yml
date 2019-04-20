@@ -1,0 +1,28 @@
+language: python
+
+python:
+  - "3.6"
+
+before_install:
+  - export TZ='Asia/Shanghai'
+
+install:
+  - pip install mkdocs
+  - pip install mkdocs-material
+  - pip install pymdown-extensions
+
+script:
+  - mkdocs build --clean
+  
+branches:
+  only:
+    - master
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: site
+  keep-history: false
+  on:
+    branch: master
