@@ -1,14 +1,14 @@
-# 版权与许可证
+# License and copyright
 
-本教程建立之初，为了减少不必要的重复工作量，选择了由GCBA出版的两部制图书籍：《3ds max 在 Ballance 制图中的应用》和《Virtools制图 第二版》作为基础，并在此之上构建了此教程。在构建此教程之前，由于上述教程并未使用任何许可证，因此，我分别向其各自的主要编辑者，通过QQ，发送了授权申请，并在各位主要编辑者同意的情况下将上述书籍转为[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)授权，进而组成了此网站。
+At the beginning of establishing this tutorial, for decreasing the useless work, I select the 2 books which is published by GCBA, "3ds max 在 Ballance 制图中的应用" and "Virtools制图 第二版". And I construct this tutorial under the basis of these 2 books. Before I create this tutorial, due to that these 2 books don't use any public license, I send the application about authorization to these books' main maintainers via QQ, a Chinese instant-messaging software. And after I get the agreement of them, I apply a new public license, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), to these 2 books and use them legally to build this website.
 
-上述书籍所引用的书籍，视为进入公有领域，只列出相关作者。
+The referenced books about these 2 books, are seen as that all of them has been put in public territory. And I only list their authors' name.
 
-由于构建错误，本项目的第一个Commit使用的是**CC BY-SA 4.0**许可证，后续Commit已纠正此错误。请勿使用本项目的第一个Commit，因为它是非法的。
+Due to the error of construction, this project's first commit is under **CC BY-SA 4.0**. Following commit has corrected this error. So, don't use the first commit of this project because it is illegal.
 
-## Tutorial author
+## Tutorial authors
 
-Following license's requirements, all of the authors have been listed in there.
+Following license's requirements, all authors have been listed in there.
 
 ### Virtools制图 第二版
 
@@ -34,30 +34,34 @@ Following license's requirements, all of the authors have been listed in there.
 * 《Virtools使用教程》-平衡总统-2016/2
 * 《Ballance修改教程（一）纯VT制图》-Nice Melodies-2016/7
 
-### Organization
+### Video tutorial sponsors
+
+* 梨栠washing
+
+### Organizations
 
 * GCBA
 * Chinese Ballance Forum
 * Ballance Discord Server
 * BearKidsTeam
 
-### Translation
+### Translators
 
 * BallanceBug
 * GEcoldstar
 * yyc12345
 
-### Tutorial co-author
+### Tutorial co-authors
 
 * yyc12345
 
 ## The process of getting license
 
-This section will display how I get the license of "3ds max 在 Ballance 制图中的应用" and "Virtools制图 第二版". This will indicate this tutorial is legally use thsse 2 books.
+This section will display how I get the license of "3ds max 在 Ballance 制图中的应用" and "Virtools制图 第二版". This will indicate this tutorial is legally use these 2 books.
 
 The dialogues are happened on QQ. I will display it using form format. Some definitely unrelated contents have been removed.
 
-对话发生时，Gitbook仍然可以正常使用，但是之后，Gitbook自绝于天下，[拒绝再提供静态网页生成服务](https://docs.gitbook.com/v2-changes/important-differences)，因此我们切换到了[MkDocs](https://www.mkdocs.org/)，根据CC BY-NC-SA 4.0，这并不违反规定，可以视作我们已以Gitbook发布，转换了协议，然后再在CC BY-NC-SA 4.0协议下迁移到MkDocs上的。
+When the dialogues happened, Gitbook can be used normally. But after that, Gitbook decide [shutdown the services of providing static website generator](https://docs.gitbook.com/v2-changes/important-differences). So I switch to [MkDocs](https://www.mkdocs.org/). According to CC BY-NC-SA 4.0, this is legal operation.
 
 ### Virtools制图 第二版
 
@@ -71,7 +75,7 @@ The dialogues are happened on QQ. I will display it using form format. Some defi
 
 ### 3ds max 在 Ballance 制图中的应用
 
-|Sender|Time|内容|
+|Sender|Time|Content|
 |:---:|:---:|:---|
 |yyc12345|3/29/2019 13:04|另外，</br>我想要一个授权，针对Gcba上的3dsmax制图教程。</br>我希望能获得一份授权，以让我有权限将其以gitbook或ballance wiki的形式或再发行。并基于CC-BY-NC-SA 4.0协议（协议链接：https://creativecommons.org/licenses/by-nc-sa/4.0/ ）（gitbook是一个基于git的，可以生成静态网页的程序，原生支持多语言，可以更加方便方便翻译协作）</br>此外，如果我最终决定以gitbook再发行的话，我想再获得一份授权，使我能在GitHub上的gcba组织中建立相关项目以用于协作，生成和网页托管。|
 |BallanceBug|3/29/2019 17:48|授权没有问题的|

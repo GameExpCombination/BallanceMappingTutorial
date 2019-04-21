@@ -7,7 +7,7 @@ site_author: 'Ballance Player Organization'
 # repo_url: 'https://github.com/GameExpCombination/BallanceMappingTutorial'
 # edit_uri: ''
 
-copyright: 'Text is available under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA 4.0</a>. Supported by GCBA, Chinese Ballance Forum, Ballance Discord Server and BearKidsTeam.'
+copyright: 'Text is available under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA 4.0</a>.'
 
 nav:
     - Index: 
