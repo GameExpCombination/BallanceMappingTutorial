@@ -14,7 +14,7 @@ Ballance是一款由Virtools开发的滚球游戏，其首次发布于2004年。
 
 在阅读此教程之前，你首先要简单了解 Ballance 游戏本身的原理和制图的简要流程。
 
-Ballance是Virtools开发的游戏，因此Virtools可以直接生成和编辑地图文件（Ballance的地图扩展名是NMO），但鉴于功能性等多方面原因，Virtools常用于后期对地图进行修改，而建模往往要利用3ds Max等建模功能强大的软件，少有完全只用Virtools制作地图的作者。但Virtools在Ballance制图中是最为重要的，可以这么说，只用Virtools也可以做出一张地图，但如果离开了Virtools，几乎不可能做出一张地图，可见这部分的重要性和基础性。当然，对Virtools制图的原理的理解也是制图最需要具备的素养。
+Ballance是Virtools开发的游戏，因此Virtools可以直接生成和编辑地图文件（Ballance的地图扩展名是NMO），但鉴于功能性等多方面原因，Virtools常用于后期对地图进行修改，而建模往往要利用3ds Max等建模功能强大的软件，少有完全只用Virtools制作地图的作者。但Virtools在Ballance制图中是最为重要的，可以这么说，只用Virtools也可以做出一张地图，但如果离开了Virtools，几乎不可能做出一张地图。当然，对Virtools制图的原理的理解也是制图最需要具备的素养。
 3ds Max虽然不能直接生成地图，但因为其功能强大，我们可以先在3ds Max中创建我们的地图，编辑完成以后再通过Virtools加以修改，例如执行只有Virtools才能进行的操作，生成能够加载的游戏地图。 
 BMMaker只是一款简单的路面生成脚本，需要搭配3ds Max使用，它仅有的功能就是制作路面，但是足够好用，可以看作是一个3ds Max的辅助工具。 
 
