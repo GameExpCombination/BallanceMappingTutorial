@@ -1,11 +1,11 @@
 site_name: Ballance Mapping Tutorial
 site_description: 'The tutorial for Ballance mapping.'
 site_author: 'Ballance Player Organization'
-# site_url: 'https://gameexpcombination.github.io/BallanceMappingTutorial/'
+site_url: 'https://gameexpcombination.github.io/BallanceMappingTutorial/'
 
-# repo_name: 'GameExpCombination/BallanceMappingTutorial'
-# repo_url: 'https://github.com/GameExpCombination/BallanceMappingTutorial'
-# edit_uri: ''
+repo_name: 'GameExpCombination/BallanceMappingTutorial'
+repo_url: 'https://github.com/GameExpCombination/BallanceMappingTutorial'
+edit_uri: ''
 
 copyright: 'Text is available under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-NC-SA 4.0</a>.'
 
@@ -64,8 +64,8 @@ plugins: []
 
 extra:
   social:
-    # - type: 'github'
-    #   link: 'https://github.com/yyc12345/bpm_wiki'
+    - type: 'github'
+      link: 'https://github.com/GameExpCombination'
     - type: 'discord'
       link: 'https://discord.gg/hyarMPm'
 
