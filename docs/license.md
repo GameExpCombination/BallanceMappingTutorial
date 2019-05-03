@@ -51,13 +51,13 @@ Following license's requirements, all authors have been listed in there.
 * GEcoldstar
 * yyc12345
 
-### Tutorial co-authors
+### Website construction
 
 * yyc12345
 
 ## The process of getting license
 
-This section will display how I get the license of "3ds max 在 Ballance 制图中的应用" and "Virtools制图 第二版". This will indicate this tutorial is legally use these 2 books.
+This section will display how I get the license of "3ds max 在 Ballance 制图中的应用" and "Virtools制图 第二版". This will indicate this tutorial legally use these 2 books.
 
 The dialogues are happened on QQ. I will display it using form format. Some definitely unrelated contents have been removed.
 
