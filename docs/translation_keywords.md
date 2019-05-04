@@ -8,5 +8,4 @@ If you find a new keywords, you should update this table and order all of other 
 
 |Description|English|简体中文|
 |:---|:---|:---|
-|A core software for making Ballance map.|Virtools|Virtools（首字母大写）|
-|The assistant software for making Ballance map|3ds Max|3ds Max（前半部分全部小写，后半部分首字母大写，用空格分开前后部分）|
+|-|-|-|

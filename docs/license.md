@@ -1,4 +1,4 @@
-# License and copyright
+# Copyright and License
 
 At the beginning of establishing this tutorial, for decreasing the useless work, I select the 2 books which is published by GCBA, "3ds max 在 Ballance 制图中的应用" and "Virtools制图 第二版". And I construct this tutorial under the basis of these 2 books. Before I create this tutorial, due to that these 2 books don't use any public license, I send the application about authorization to these books' main maintainers via QQ, a Chinese instant-messaging software. And after I get the agreement of them, I apply a new public license, [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), to these 2 books and use them legally to build this website.
 
@@ -52,6 +52,10 @@ Following license's requirements, all authors have been listed in there.
 * yyc12345
 
 ### Website construction
+
+* yyc12345
+
+### Following contributors
 
 * yyc12345
 

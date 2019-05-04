@@ -12,8 +12,9 @@ copyright: 'Text is available under the <a href="https://creativecommons.org/lic
 nav:
     - Index: 
         - 'Choose Language': 'index.md'
-        - 'Translation keywords table': 'translation_keywords.md'
-        - 'Copyright and license': 'license.md'
+        - 'Translation Keywords Table': 'translation_keywords.md'
+        - 'Contribution Guideline': 'contributing.md'
+        - 'Copyright and License': 'license.md'
     - 简体中文:
         - '前言': 'zh-hans/index.md'
         - 'Virtools教程':
@@ -70,6 +71,9 @@ extra:
       link: 'https://discord.gg/hyarMPm'
 
 markdown_extensions:
+  - toc:
+      permalink: true
+  - footnotes
   - admonition
   - pymdownx.arithmatex
   - pymdownx.betterem:
